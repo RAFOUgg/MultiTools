@@ -17,5 +17,5 @@ crypter le avec mon tool: <br>
 Link : https://github.com/RAFOUgg/BATCH-OBFUSCATOR
 _________________________________________________________________________
 ATTENTION
-A malicious use of this tool is punishable by law !
+A malicious use of this tool is punishable by law ! <br>
 L'utilisation mal intentionée de ce tool est répréhensible de part la lois !
