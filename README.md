@@ -8,11 +8,12 @@ Il contient:
 - Un Name Lookup
 _________________________________________________________________________
 To change the password you must change the 20th line of the script. After
-then, if you want the password be invisble crypt the code with my tools:
-Linke : https://github.com/RAFOUgg/BATCH-OBFUSCATOR
-Pour modifier le mot de passe du logiciel, il vous suffit de 
-modifier la ligne 20 du fichier. Puis pour éviter que le mot de 
-passe soit visible, compilez le fichier en .exe .
+then, if you want the password be invisble crypt the code with my tools: <br>
+Linke : https://github.com/RAFOUgg/BATCH-OBFUSCATOR <br>
+Pour modifier le mot de passe du logiciel, il vous suffit de modifier la 
+ligne 20 du fichier. Puis pour éviter que le mot de passe soit visible, 
+crypter le avec mon tool: <br>
+Link : https://github.com/RAFOUgg/BATCH-OBFUSCATOR
 _________________________________________________________________________
 ATTENTION
 L'utilisation mal intentionée d'une adresse IP est répréhensible de part la lois !
