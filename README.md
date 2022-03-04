@@ -1,11 +1,11 @@
-_________________________________[RAFOU]_________________________________
-Cet outils permet plein d'iformation sur une IP.
+_________________________________[RAFOU]_________________________________<br>
 
-Il contient:
-- Un pinger
-- Un IP Lookup
-- Un IP Tracer
-- Un Name Lookup
+
+This tool have :
+- A pinger
+- A IP Lookup
+- A IP Tracer
+- A Name Lookup
 _________________________________________________________________________
 To change the password you must change the 20th line of the script. After <br>
 then, if you want the password be invisble crypt the code with my tools: <br>
